@@ -11,8 +11,8 @@ base_url = "https://opt-t.github.io"
 [[sections]]
 title = "OPT"
 #description = "Here are some of my movies"
-#direction = "column"
-#item_style = "outline"
+direction = "column"
+item_style = "outline"
 
 [[sections.items]]
 title = "Veranstaltungen"
@@ -22,7 +22,8 @@ url = "https://ost-passage-theater.de/veranstaltungen/"
 [[sections]]
 title = "Nextcloud Direkt"
 #description = "Look for me on these websites"
-direction = "row"
+#direction = "row"
+direction = "column"
 item_style = "filled"
 [[sections.items]]
 title = "IF25 Fotos"
@@ -32,7 +33,7 @@ url = "https://opt-team.moeh.re/f/379144"
 title = "Kalender"
 url = "https://opt-team.moeh.re/apps/calendar/"
 [[sections.items]]
-title = "Photos"
+title = "Fotos"
 url = "https://opt-team.moeh.re/apps/photos/"
 [[sections.items]]
 title = "Protokolle"
