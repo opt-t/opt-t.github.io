@@ -32,12 +32,12 @@ title = "Wurzel"
 url = "https://opt-team.moeh.re"
 
 [[sections]]
-title = "Website"
+#title = "Website"
 #description = "Here are some of my movies"
 direction = "column"
 item_style = "filled"
 
 [[sections.items]]
-title = "Veranstaltungen"
+title = "Spielplan"
 #description = "A groundbreaking romantic drama challenging societal expectations"
-url = "https://ost-passage-theater.de/veranstaltungen/"
+url = "https://ost-passage-theater.de/spielplan/"
