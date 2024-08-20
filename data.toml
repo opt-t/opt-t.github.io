@@ -25,7 +25,7 @@ title = "Nextcloud Direkt"
 direction = "row"
 item_style = "filled"
 [[sections.items]]
-title = "IF25 Foto Upload"
+title = "IF25 Fotos"
 #description = "Nextcloud\00_Plenum\2 - VEREIN\2 - Vereinsbuchhaltung\Wirtschaftsplan-Institutionelle Förderung\IF 2025\Fotos für IF '25"
 url = "https://opt-team.moeh.re/f/379144"
 [[sections.items]]
