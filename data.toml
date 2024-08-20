@@ -13,7 +13,7 @@ title = "Nextcloud Direkt"
 #description = "Look for me on these websites"
 #direction = "row"
 direction = "column"
-item_style = "filled"
+item_style = "outlined"
 [[sections.items]]
 title = "IF25 Fotos"
 #description = "Nextcloud\00_Plenum\2 - VEREIN\2 - Vereinsbuchhaltung\Wirtschaftsplan-Institutionelle Förderung\IF 2025\Fotos für IF '25"
@@ -35,7 +35,7 @@ url = "https://opt-team.moeh.re"
 title = "Website"
 #description = "Here are some of my movies"
 direction = "column"
-item_style = "outline"
+item_style = "filled"
 
 [[sections.items]]
 title = "Veranstaltungen"
