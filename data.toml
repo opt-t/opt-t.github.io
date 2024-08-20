@@ -9,13 +9,11 @@ text_align = "center"
 base_url = "https://opt-t.github.io"
 
 [[sections]]
-title = "Links"
+title = "OPT"
 #description = "Here are some of my movies"
 #direction = "column"
 #item_style = "outline"
-[[sections.items]]
-title = "Nextcloud"
-url = "https://opt-team.moeh.re"
+
 [[sections.items]]
 title = "Veranstaltungen"
 #description = "A groundbreaking romantic drama challenging societal expectations"
@@ -26,10 +24,10 @@ title = "IF25 Foto Upload"
 url = "https://opt-team.moeh.re/f/379144"
 
 [[sections]]
-title = "Nextcloud Links"
+title = "Nextcloud Direkt"
 #description = "Look for me on these websites"
 direction = "row"
-item_style = "outline"
+item_style = "filled"
 [[sections.items]]
 title = "Kalender"
 url = "https://opt-team.moeh.re/apps/calendar/"
@@ -39,3 +37,6 @@ url = "https://opt-team.moeh.re/apps/photos/"
 [[sections.items]]
 title = "Protokolle"
 url = "https://opt-team.moeh.re/f/373993"
+[[sections.items]]
+title = "Wurzel"
+url = "https://opt-team.moeh.re"
