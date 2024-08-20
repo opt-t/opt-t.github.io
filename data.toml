@@ -18,16 +18,16 @@ title = "OPT"
 title = "Veranstaltungen"
 #description = "A groundbreaking romantic drama challenging societal expectations"
 url = "https://ost-passage-theater.de/veranstaltungen/"
-[[sections.items]]
-title = "IF25 Foto Upload"
-#description = "Nextcloud\00_Plenum\2 - VEREIN\2 - Vereinsbuchhaltung\Wirtschaftsplan-Institutionelle Förderung\IF 2025\Fotos für IF '25"
-url = "https://opt-team.moeh.re/f/379144"
 
 [[sections]]
 title = "Nextcloud Direkt"
 #description = "Look for me on these websites"
 direction = "row"
 item_style = "filled"
+[[sections.items]]
+title = "IF25 Foto Upload"
+#description = "Nextcloud\00_Plenum\2 - VEREIN\2 - Vereinsbuchhaltung\Wirtschaftsplan-Institutionelle Förderung\IF 2025\Fotos für IF '25"
+url = "https://opt-team.moeh.re/f/379144"
 [[sections.items]]
 title = "Kalender"
 url = "https://opt-team.moeh.re/apps/calendar/"
