@@ -98,18 +98,18 @@ with open("data.toml", "rb") as f:
     )
 
     header = frag(
-        h("header", klass="container")(
-            h("hgroup")(
+     #   h("header", klass="container")(
+     #       h("hgroup")(
              #   h(
              #       "img",
              #       klass="avatar",
              #       src=f"img/{data.get('image')}",
              #       alt="avatar",
              #  ),
-                h("h1")(data.get("name")),
-                h("p")(data.get("description")) if data.get("description") else None,
-            ),
-        )
+      #          h("h1")(data.get("name")),
+      #          h("p")(data.get("description")) if data.get("description") else None,
+      #      ),
+      #  )
     )
 
     footer = frag(
