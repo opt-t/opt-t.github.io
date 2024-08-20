@@ -1,29 +1,28 @@
-name = "Ost Passage-Theater"
+name = "OPT"
 #description = "Accomplished actor, captivating with versatility and charisma."
 #keywords = "Jake Gyllenhaal, actor, filmography, awards, versatile performances, Hollywood"
-image = "jake.webp"
+#image = "jake.webp"
 theme = "dark"
 primary_color = "#ff6600"
 text_align = "center"
-gtag_id = "G-33WB8LVHR6"
+#gtag_id = "G-33WB8LVHR6"
 base_url = "https://opt-t.github.io"
 
 [[sections]]
-#title = "Movies"
+title = "Links"
 #description = "Here are some of my movies"
 #direction = "column"
 #item_style = "outline"
 [[sections.items]]
 title = "Nextcloud"
-#description = "A mesmerizing thriller delving into the dark world of crime journalism"
 url = "https://opt-team.moeh.re"
 [[sections.items]]
 title = "Veranstaltungen"
 #description = "A groundbreaking romantic drama challenging societal expectations"
 url = "https://ost-passage-theater.de/veranstaltungen/"
 [[sections.items]]
-title = "IF'25 Foto Upload"
-description = "Nextcloud\00_Plenum\2 - VEREIN\2 - Vereinsbuchhaltung\Wirtschaftsplan-Institutionelle Förderung\IF 2025\Fotos für IF '25"
+title = "IF25 Foto Upload"
+#description = "Nextcloud\00_Plenum\2 - VEREIN\2 - Vereinsbuchhaltung\Wirtschaftsplan-Institutionelle Förderung\IF 2025\Fotos für IF '25"
 url = "https://opt-team.moeh.re/f/379144"
 
 [[sections]]
@@ -38,5 +37,5 @@ url = "https://opt-team.moeh.re/apps/calendar/"
 title = "Photos"
 url = "https://opt-team.moeh.re/apps/photos/"
 [[sections.items]]
-title = "akt. Prots"
+title = "Protokolle"
 url = "https://opt-team.moeh.re/f/373993"
