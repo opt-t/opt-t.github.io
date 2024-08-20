@@ -13,7 +13,7 @@ title = "Nextcloud"
 #description = "Look for me on these websites"
 #direction = "row"
 direction = "column"
-item_style = "outlined"
+item_style = "outline"
 [[sections.items]]
 title = "IF25 Fotos"
 description = "Urheberrechtsangabe in Dateinamen"
